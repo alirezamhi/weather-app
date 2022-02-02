@@ -1,0 +1,13 @@
+figcaption{
+    color: grey;
+}
+ul {
+    list-style: none;
+}
+.red{
+    color: red;
+}
+.card{
+    height: 300px;
+    width: 170px;
+}
